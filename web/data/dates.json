@@ -1,19 +1,80 @@
 {
   "dates": [
     {
-      "jour": 1,
+      "jour": 0,
       "seances":[
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 1,
+          "film" : 0,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
+          "film" : 0,
+          "heure": "08:30",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 2,
           "film" : 1,
+          "heure": "11:45",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 3,
+          "film" : -1,
+          "heure": "",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 4,
+          "film" : -1,
+          "heure": "",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 5,
+          "film" : 1,
+          "heure": "19:00",
+          "demande": "High"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 6,
+          "film" : 0,
+          "heure": "22:00",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 7,
+          "film" : -1,
+          "heure": "",
+          "demande": "Low"
+        }
+      ]
+    },
+    {
+      "jour": 1,
+      "seances":[
+        {
+          "salle": "Debussy",
+          "numeroseance": 1,
+          "film" : 2,
+          "heure": "08:30",
+          "demande": "Low"
+        },
+        {
+          "salle": "Lumière",
+          "numeroseance": 1,
+          "film" : 2,
           "heure": "08:30",
           "demande": "Low"
         },
@@ -21,41 +82,41 @@
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 2,
-          "heure": "11:45",
+          "heure": "11:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 0,
-          "heure": "",
-          "demande": "Low"
+          "film" : 3,
+          "heure": "15:30",
+          "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 2,
-          "heure": "19:00",
+          "heure": "19:30",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 1,
-          "heure": "22:00",
+          "film" : 4,
+          "heure": "22:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         }
@@ -67,56 +128,56 @@
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 3,
+          "film" : 5,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
-          "film" : 3,
+          "film" : 5,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
-          "film" : 3,
+          "film" : 5,
           "heure": "11:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 4,
-          "heure": "15:30",
-          "demande": "High"
+          "film" : 6,
+          "heure": "16:00",
+          "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
-          "film" : 3,
-          "heure": "19:30",
+          "film" : 5,
+          "heure": "19:00",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 5,
-          "heure": "22:30",
+          "film" : 7,
+          "heure": "22:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         }
@@ -128,56 +189,56 @@
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 6,
+          "film" : 8,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
-          "film" : 6,
+          "film" : 8,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
-          "film" : 6,
-          "heure": "11:30",
+          "film" : 9,
+          "heure": "11:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 0,
-          "heure": "",
+          "film" : 8,
+          "heure": "13:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 7,
+          "film" : 10,
           "heure": "16:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
-          "film" : 6,
-          "heure": "19:00",
+          "film" : 8,
+          "heure": "19:30",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 8,
+          "film" : 9,
           "heure": "22:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         }
@@ -189,56 +250,56 @@
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 9,
+          "film" : 11,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
-          "film" : 9,
+          "film" : 11,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
-          "film" : 10,
-          "heure": "11:00",
+          "film" : 12,
+          "heure": "11:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 9,
-          "heure": "13:30",
+          "film" : -1,
+          "heure": "",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 11,
+          "film" : 13,
           "heure": "16:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
-          "film" : 9,
-          "heure": "19:30",
+          "film" : 11,
+          "heure": "19:00",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 10,
+          "film" : 12,
           "heure": "22:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         }
@@ -250,57 +311,57 @@
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 12,
+          "film" : 14,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
-          "film" : 12,
+          "film" : 14,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
-          "film" : 13,
-          "heure": "11:30",
+          "film" : 15,
+          "heure": "11:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 0,
-          "heure": "",
+          "film" : 14,
+          "heure": "14:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 14,
-          "heure": "16:00",
+          "film" : -1,
+          "heure": "",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
-          "film" : 12,
-          "heure": "19:00",
+          "film" : 14,
+          "heure": "18:30",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 13,
+          "film" : 15,
           "heure": "22:00",
-          "demande": "Low"
+          "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
-          "heure": "",
+          "film" : 16,
+          "heure": "23:59",
           "demande": "Low"
         }
       ]
@@ -311,117 +372,56 @@
         {
           "salle": "Debussy",
           "numeroseance": 1,
-          "film" : 15,
-          "heure": "08:30",
-          "demande": "Low"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 1,
-          "film" : 15,
-          "heure": "08:30",
-          "demande": "Low"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 2,
-          "film" : 16,
-          "heure": "11:00",
-          "demande": "Low"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 3,
-          "film" : 15,
-          "heure": "14:30",
-          "demande": "Low"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 4,
-          "film" : 0,
-          "heure": "",
-          "demande": "Low"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 5,
-          "film" : 15,
-          "heure": "18:30",
-          "demande": "High"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 6,
-          "film" : 16,
-          "heure": "22:00",
-          "demande": "High"
-        },
-        {
-          "salle": "Lumière",
-          "numeroseance": 7,
           "film" : 17,
-          "heure": "23:59",
-          "demande": "Low"
-        }
-      ]
-    },
-    {
-      "jour": 7,
-      "seances":[
-        {
-          "salle": "Debussy",
-          "numeroseance": 1,
-          "film" : 18,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
-          "film" : 18,
+          "film" : 17,
           "heure": "08:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
-          "film" : 19,
+          "film" : 18,
           "heure": "12:00",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
-          "film" : 18,
+          "film" : 17,
           "heure": "15:30",
           "demande": "Low"
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
-          "film" : 18,
+          "film" : 17,
           "heure": "19:00",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
-          "film" : 19,
+          "film" : 18,
           "heure": "22:30",
           "demande": "High"
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
-          "film" : 0,
+          "film" : -1,
           "heure": "",
           "demande": "Low"
         }
