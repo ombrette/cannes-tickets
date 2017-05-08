@@ -31,12 +31,19 @@
         </tr>
         <tr ng-repeat="jour in ctrl.seances.dates">
             <th>
-                {{ctrl.dates[jour.jour]}}
+                {{ctrl.dates[jour.jour]}} Mai 2016
             </th>
-            <td ng-repeat="seance in jour.seances">
+            <td ng-repeat="seance in jour.seances" ng-class="{none: seance.film < 0, available: seance.book == 0}">
                 <p><strong>{{ctrl.films[seance.film].titre}}</strong></p>
                 <p>{{ctrl.films[seance.film].realisateur}}</p>
-                <p><span>{{seance.heure}}</span></p>
+                <p>
+                    <span>{{seance.heure}}</span>
+                    <span ng-if="seance.book == 0 && seance.film >= 0"><img src="images/picto-question.png"><a ng-click="booked()">Demander</a></span>
+                    <span ng-if="seance.book == 1 && seance.film >= 0"><img src="images/picto-demande-en-attente.png"><a>Demandée</a></span>
+                </p>
+                <p ng-if="seance.demande == 'High'">
+                    <span class="red-circle"></span>
+                </p>
             </td>
         </tr>
     </table>

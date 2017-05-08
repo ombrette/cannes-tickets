@@ -11,11 +11,13 @@ app.controller('FrontController',
             var promListing = $http.get("data/dates.json");
             promListing.then(function(response){
                 ctrl.seances = response.data;
-                console.log(ctrl.seances);
             });
             var promListingFilms = $http.get("data/films.json");
             promListingFilms.then(function(response){
                 ctrl.films = response.data.films;
-                console.log(ctrl.films);
             });
+
+            ctrl.booked = function(){
+
+            }
         }]);

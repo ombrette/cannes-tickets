@@ -8,56 +8,64 @@
           "numeroseance": 1,
           "film" : 0,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 0,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 1,
           "heure": "11:45",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 1,
           "heure": "19:00",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 0,
           "heure": "22:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -69,56 +77,64 @@
           "numeroseance": 1,
           "film" : 2,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 2,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 2,
           "heure": "11:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 3,
           "heure": "15:30",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 2,
           "heure": "19:30",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 4,
           "heure": "22:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -130,56 +146,64 @@
           "numeroseance": 1,
           "film" : 5,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 5,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 5,
           "heure": "11:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 6,
           "heure": "16:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 5,
           "heure": "19:00",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 7,
           "heure": "22:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -191,56 +215,64 @@
           "numeroseance": 1,
           "film" : 8,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 8,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 9,
           "heure": "11:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : 8,
           "heure": "13:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 10,
           "heure": "16:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 8,
           "heure": "19:30",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 9,
           "heure": "22:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -252,56 +284,64 @@
           "numeroseance": 1,
           "film" : 11,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 11,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 12,
           "heure": "11:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 13,
           "heure": "16:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 11,
           "heure": "19:00",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 12,
           "heure": "22:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -313,56 +353,64 @@
           "numeroseance": 1,
           "film" : 14,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 14,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 15,
           "heure": "11:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : 14,
           "heure": "14:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 14,
           "heure": "18:30",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 15,
           "heure": "22:00",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : 16,
           "heure": "23:59",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     },
@@ -374,56 +422,64 @@
           "numeroseance": 1,
           "film" : 17,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 17,
           "heure": "08:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 18,
           "heure": "12:00",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 17,
           "heure": "15:30",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 17,
           "heure": "19:00",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 18,
           "heure": "22:30",
-          "demande": "High"
+          "demande": "High",
+          "book" : 0
         },
         {
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
           "heure": "",
-          "demande": "Low"
+          "demande": "Low",
+          "book" : 0
         }
       ]
     }
