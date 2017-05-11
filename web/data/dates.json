@@ -4,6 +4,7 @@
       "jour": 0,
       "seances":[
         {
+          "id": 0,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 0,
@@ -12,6 +13,7 @@
           "book" : 0
         },
         {
+          "id": 1,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 0,
@@ -20,6 +22,7 @@
           "book" : 0
         },
         {
+          "id": 2,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 1,
@@ -28,6 +31,7 @@
           "book" : 0
         },
         {
+          "id": 3,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
@@ -36,6 +40,7 @@
           "book" : 0
         },
         {
+          "id": 4,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : -1,
@@ -44,6 +49,7 @@
           "book" : 0
         },
         {
+          "id": 5,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 1,
@@ -52,6 +58,7 @@
           "book" : 0
         },
         {
+          "id": 6,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 0,
@@ -60,6 +67,7 @@
           "book" : 0
         },
         {
+          "id": 7,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
@@ -73,6 +81,7 @@
       "jour": 1,
       "seances":[
         {
+          "id": 8,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 2,
@@ -81,6 +90,7 @@
           "book" : 0
         },
         {
+          "id": 9,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 2,
@@ -89,6 +99,7 @@
           "book" : 0
         },
         {
+          "id": 10,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 2,
@@ -97,6 +108,7 @@
           "book" : 0
         },
         {
+          "id": 11,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
@@ -105,6 +117,7 @@
           "book" : 0
         },
         {
+          "id": 12,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 3,
@@ -113,6 +126,7 @@
           "book" : 0
         },
         {
+          "id": 13,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 2,
@@ -121,6 +135,7 @@
           "book" : 0
         },
         {
+          "id": 14,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 4,
@@ -129,6 +144,7 @@
           "book" : 0
         },
         {
+          "id": 15,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
@@ -142,6 +158,7 @@
       "jour": 2,
       "seances":[
         {
+          "id": 16,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 5,
@@ -150,6 +167,7 @@
           "book" : 0
         },
         {
+          "id": 17,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 5,
@@ -158,6 +176,7 @@
           "book" : 0
         },
         {
+          "id": 18,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 5,
@@ -166,6 +185,7 @@
           "book" : 0
         },
         {
+          "id": 19,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
@@ -174,6 +194,7 @@
           "book" : 0
         },
         {
+          "id": 20,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 6,
@@ -182,6 +203,7 @@
           "book" : 0
         },
         {
+          "id": 21,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 5,
@@ -190,6 +212,7 @@
           "book" : 0
         },
         {
+          "id": 22,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 7,
@@ -198,6 +221,7 @@
           "book" : 0
         },
         {
+          "id": 23,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
@@ -211,6 +235,7 @@
       "jour": 3,
       "seances":[
         {
+          "id": 24,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 8,
@@ -219,6 +244,7 @@
           "book" : 0
         },
         {
+          "id": 25,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 8,
@@ -227,6 +253,7 @@
           "book" : 0
         },
         {
+          "id": 26,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 9,
@@ -235,6 +262,7 @@
           "book" : 0
         },
         {
+          "id": 27,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : 8,
@@ -243,6 +271,7 @@
           "book" : 0
         },
         {
+          "id": 28,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 10,
@@ -251,6 +280,7 @@
           "book" : 0
         },
         {
+          "id": 29,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 8,
@@ -259,6 +289,7 @@
           "book" : 0
         },
         {
+          "id": 30,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 9,
@@ -267,6 +298,7 @@
           "book" : 0
         },
         {
+          "id": 31,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
@@ -280,6 +312,7 @@
       "jour": 4,
       "seances":[
         {
+          "id": 32,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 11,
@@ -288,6 +321,7 @@
           "book" : 0
         },
         {
+          "id": 33,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 11,
@@ -296,6 +330,7 @@
           "book" : 0
         },
         {
+          "id": 34,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 12,
@@ -304,6 +339,7 @@
           "book" : 0
         },
         {
+          "id": 35,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
@@ -312,6 +348,7 @@
           "book" : 0
         },
         {
+          "id": 36,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 13,
@@ -320,6 +357,7 @@
           "book" : 0
         },
         {
+          "id": 37,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 11,
@@ -328,6 +366,7 @@
           "book" : 0
         },
         {
+          "id": 38,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 12,
@@ -336,6 +375,7 @@
           "book" : 0
         },
         {
+          "id": 39,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
@@ -349,6 +389,7 @@
       "jour": 5,
       "seances":[
         {
+          "id": 40,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 14,
@@ -357,6 +398,7 @@
           "book" : 0
         },
         {
+          "id": 41,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 14,
@@ -365,6 +407,7 @@
           "book" : 0
         },
         {
+          "id": 42,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 15,
@@ -373,6 +416,7 @@
           "book" : 0
         },
         {
+          "id": 43,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : 14,
@@ -381,6 +425,7 @@
           "book" : 0
         },
         {
+          "id": 44,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : -1,
@@ -389,6 +434,7 @@
           "book" : 0
         },
         {
+          "id": 45,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 14,
@@ -397,6 +443,7 @@
           "book" : 0
         },
         {
+          "id": 46,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 15,
@@ -405,6 +452,7 @@
           "book" : 0
         },
         {
+          "id": 47,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : 16,
@@ -418,6 +466,7 @@
       "jour": 6,
       "seances":[
         {
+          "id": 48,
           "salle": "Debussy",
           "numeroseance": 1,
           "film" : 17,
@@ -426,6 +475,7 @@
           "book" : 0
         },
         {
+          "id": 49,
           "salle": "Lumière",
           "numeroseance": 1,
           "film" : 17,
@@ -434,6 +484,7 @@
           "book" : 0
         },
         {
+          "id": 50,
           "salle": "Lumière",
           "numeroseance": 2,
           "film" : 18,
@@ -442,6 +493,7 @@
           "book" : 0
         },
         {
+          "id": 51,
           "salle": "Lumière",
           "numeroseance": 3,
           "film" : -1,
@@ -450,6 +502,7 @@
           "book" : 0
         },
         {
+          "id": 52,
           "salle": "Lumière",
           "numeroseance": 4,
           "film" : 17,
@@ -458,6 +511,7 @@
           "book" : 0
         },
         {
+          "id": 53,
           "salle": "Lumière",
           "numeroseance": 5,
           "film" : 17,
@@ -466,6 +520,7 @@
           "book" : 0
         },
         {
+          "id": 54,
           "salle": "Lumière",
           "numeroseance": 6,
           "film" : 18,
@@ -474,6 +529,7 @@
           "book" : 0
         },
         {
+          "id": 55,
           "salle": "Lumière",
           "numeroseance": 7,
           "film" : -1,
