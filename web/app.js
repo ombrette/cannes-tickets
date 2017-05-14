@@ -23,16 +23,21 @@ app.controller('FrontController',
                 ctrl.films = response.data.films;
             });
 
-            ctrl.booked = function(film, date){
-                var list_films = findByIdFilm(ctrl.seances.dates[date], film);
-                var booker_films = bookById(ctrl.seances.dates[date], list_films);
+            ctrl.booked = function(id, date){
+                var n_seance = id%8;
+                var booked_film = ctrl.seances.dates[date].seances[n_seance].film;
+                var list_films = findByIdFilm(ctrl.seances.dates[date], booked_film);
+                bookById(id, ctrl.seances.dates[date], list_films);
             }
 
-            function bookById(data, array) {
+            function bookById(id, data, array) {
                 var categoryArray = data.seances;
                 for (var i = 0; i < categoryArray['length']; i++) {
-                    if (array.includes(categoryArray[i]['id'])) {
-                        categoryArray[i]['book'] = 1;
+                    if(categoryArray[i]['id'] == id){
+                      categoryArray[i]['book'] = 1;
+                    }
+                    else if (array.includes(categoryArray[i]['id'])) {
+                        categoryArray[i]['book'] = -1;
                     }
                 }
             }

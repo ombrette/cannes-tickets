@@ -31,15 +31,24 @@
             <th>
                 {{ctrl.dates[jour.jour]}}
             </th>
-            <td ng-repeat="seance in jour.seances" ng-class="{none: seance.film < 0, available: seance.book == 0}">
-              <div ng-hide="seance.film < 0">
+            <td ng-repeat="seance in jour.seances" ng-class="seance.film < 0 ? 'none' : (seance.book == 0 ? 'available' : (seance.book > 0 ? 'booked' : 'already_booked'))">
+              <div ng-hide="seance.film < 0" class="seance">
                 <p><strong>{{ctrl.films[seance.film].titre}}</strong></p>
                 <p>{{ctrl.films[seance.film].realisateur}}</p>
-                <p>
+                <div>
                     <span class="heure">{{seance.heure}}</span>
-                    <span class="question" ng-if="seance.book == 0 && seance.film >= 0"><button ng-click="ctrl.booked(seance.film, jour.jour)">Demander</button></span>
-                    <span class="attente" ng-if="seance.book == 1 && seance.film >= 0"><a>Demandée</a></span>
-                </p>
+                    <div ng-switch on="seance.book" ng-if="seance.film >= 0" class="status">
+                      <span class="question" ng-switch-default>
+                        <button ng-click="ctrl.booked(seance.id, jour.jour)">Demander</button>
+                      </span>
+                      <span class="attente" ng-switch-when="1">
+                        Demandée
+                      </span>
+                      <span class="question" ng-switch-when="-1">
+                        Film demandée
+                      </span>
+                    </div>
+                </div>
                 <p ng-if="seance.demande == 'High'">
                     <span class="red-circle"></span>
                 </p>
