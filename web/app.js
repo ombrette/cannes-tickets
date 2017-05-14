@@ -30,6 +30,14 @@ app.controller('FrontController',
                 bookById(id, ctrl.seances.dates[date], list_films);
             }
 
+            ctrl.cancel = function(film, date){
+                var confirmation = window.confirm("Etes-vous sûr de vouloir annuler cette réservation ?");
+                if(confirmation){
+                  var list_films = findByIdFilm(ctrl.seances.dates[date], film);
+                  cancelById(ctrl.seances.dates[date], list_films);
+                }
+            }
+
             function bookById(id, data, array) {
                 var categoryArray = data.seances;
                 for (var i = 0; i < categoryArray['length']; i++) {
@@ -38,6 +46,15 @@ app.controller('FrontController',
                     }
                     else if (array.includes(categoryArray[i]['id'])) {
                         categoryArray[i]['book'] = -1;
+                    }
+                }
+            }
+
+            function cancelById(data, array) {
+                var categoryArray = data.seances;
+                for (var i = 0; i < categoryArray['length']; i++) {
+                    if (array.includes(categoryArray[i]['id'])) {
+                        categoryArray[i]['book'] = 0;
                     }
                 }
             }

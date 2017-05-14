@@ -29,10 +29,6 @@ tr.seances th{
   background-color: #c6c6c6;
 }
 
-.seance a{
-  cursor: default;
-}
-
 .seance button{
   cursor: pointer;
 }
