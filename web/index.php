@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Cannes Tickets</title>
-    <script src="/perso/cannesTickets/web/bower_components/angular/angular.js"></script>
-    <script src="/perso/cannesTickets/web/bower_components/angular-foundation-6/dist/angular-foundation.min.js"></script>
-    <script src="/perso/cannesTickets/web/bower_components/angular-touch/angular-touch.min.js"></script>
-    <script src="/perso/cannesTickets/web/bower_components/angular-route/angular-route.min.js"></script>
-    <script src="/perso/cannesTickets/web/app.js"></script>
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="/bower_components/angular-foundation-6/dist/angular-foundation.min.js"></script>
+    <script src="/bower_components/angular-touch/angular-touch.min.js"></script>
+    <script src="/bower_components/angular-route/angular-route.min.js"></script>
+    <script src="/app.js"></script>
 
-    <link rel="stylesheet" href="/perso/cannesTickets/web/bower_components/foundation-sites/dist/css/foundation-flex.min.css" />
-    <link rel="stylesheet" href="/perso/cannesTickets/web/app.css" />
+    <link rel="stylesheet" href="/bower_components/foundation-sites/dist/css/foundation-flex.min.css" />
+    <link rel="stylesheet" href="/app.css" />
 </head>
 <body>
 
