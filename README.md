@@ -4,8 +4,10 @@
 
 `bower install`
 
-Si vous avez des problèmes avec les liens vers les composants de bower, ajouter votre chemin d'arborescence depuis le localhost.
+Si vous avez des problèmes avec les liens vers les composants de bower, ajoutez votre chemin d'arborescence depuis le localhost.
+
 Exemple :
+
 *Remplacer*
 `<script src="/bower_components/angular/angular.js"></script>`
 
