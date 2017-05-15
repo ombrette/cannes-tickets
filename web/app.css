@@ -55,3 +55,14 @@ tr.seances th{
   background-size: contain;
   padding-left: 25px;
 }
+
+.red-circle{
+  text-align: center;
+}
+.red-circle span{
+  width: 10px;
+  height: 10px;
+  background-color: red;
+  border-radius: 20px;
+  display: inline-block;
+}

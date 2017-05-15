@@ -42,15 +42,15 @@
                         <button ng-click="ctrl.booked(seance.id, jour.jour)">Demander</button>
                       </span>
                       <span class="attente" ng-switch-when="1">
-                        <button ng-click="ctrl.cancel(seance.film, jour.jour)">Demandée</button>
+                        <button ng-click="ctrl.cancel(seance.id, jour.jour)">Demandée</button>
                       </span>
                       <span class="question" ng-switch-when="-1">
                         Film demandée
                       </span>
                     </div>
                 </div>
-                <p ng-if="seance.demande == 'High'">
-                    <span class="red-circle"></span>
+                <p ng-if="seance.demande == 'High'" class="red-circle">
+                    <span></span>
                 </p>
               </div>
             </td>
