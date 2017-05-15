@@ -1,6 +1,6 @@
 # cannes-tickets
 
-h1 Installation
+## Installation
 
 `bower install`
 
